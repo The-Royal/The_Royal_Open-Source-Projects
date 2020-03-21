@@ -4,6 +4,6 @@
 
 ## **Dimensions:**
 
-| Length  | Width     | Thickness (Recommended)| 
+| Height  | Width     | Thickness (Recommended)| 
 | ------- | --------- | ---------:|
 | 78mm    | 230mm     | 1.6mm     |
