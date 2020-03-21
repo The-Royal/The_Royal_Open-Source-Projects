@@ -15,6 +15,9 @@ While not proprietary, the Schwann PCB has cut-off bottom corners and may not be
 - Expansive Ortholinear Bottom Row Options
 - and (IMO) A Beautiful PCB Aesthetically
 
+## [**Non-Official QMK Firmware Documentation Can Be Found Here**](https://github.com/TheRoyalSweatshirt/The_Royal_QMK_Firmware_Vault/tree/master/In-Development_Boards/schwann)
+
+
 ## **Layout Options**
 ![Schwann_Layouts](https://i.imgur.com/H78IrGM.png)
 

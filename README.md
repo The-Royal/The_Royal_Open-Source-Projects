@@ -1,7 +1,7 @@
 # The_Royal_Projects
  **A Master Repository For All things Royal Made.**
 
- From Here forward, all public and open-sourced projects of mine will be found here within this repository for consistency and clarity. 
+ From Here forward, all complete, public, and open-sourced projects of my own design will be found here within this repository for consistency and clarity. 
 
  ___
 
