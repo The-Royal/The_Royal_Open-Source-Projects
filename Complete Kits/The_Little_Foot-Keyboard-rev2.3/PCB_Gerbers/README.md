@@ -74,9 +74,11 @@ OR*
 1. Solder in diodes, making sure to orient them according to the silk screen on the board. You could solder them to the top or bottom of the PCB according to your preference.
 2. Install stabilizers (either 2x 2U or 1x 7U depending on your spacebar configuration). Ensure they are mounted on the **top** of the board.
 3. Solder in the 2x Cherry MX compatible switches which overlap the footprint of the micro controller.
-4. Solder in the micro controller, or micro controller socket if you choose to use one. Note that using a socket will increase the height of the micro controller on the board and may not be compatible with the pre-designed cases in this repository.
+4. Solder in the micro controller, or micro controller socket if you choose to use one on to the **bottom** of the PCB. Note that using a socket will increase the height of the micro controller on the board and may not be compatible with the pre-designed cases in this repository.
 5. Solder on the reset switch.
 6. Flash micro controller firmware if not already done.
-7. Now is a good time to go to [Keyboard Tester](https://keyboardtester.com) and ensure that all your keys are registering. You can do this by shorting together the switch pins with tweezers or a piece of wire.
+7. Now is a good time to go to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. You can do this by shorting together the switch pins with tweezers or a piece of wire.
 8. Solder in remaining Cherry MX compatible switches.
-9. Header over to [Keyboard Tester](https://keyboardtester.com) and ensure that all your keys are registering, if you didn't do it in an earlier step. 
+9. Header over to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. If all of the switch locations were working during the earlier test but not now, check to ensure that you do not have any incomplete or cold solder joins on your switch pins. 
+
+At this point your PCB is fully assembled, and you can install it in a case of your choice. 
