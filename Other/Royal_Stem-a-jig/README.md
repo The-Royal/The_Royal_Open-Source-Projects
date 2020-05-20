@@ -4,6 +4,9 @@
 
  **An MX Stem "Gripper" to aid in holding switch stems while lubing**
 
+ **Based on the wondrous world of compliant mechanisms! - Print it in place and once cooled, it's ready to use!**
+
+
 Within this project you will find the most updated print file (v6) as well as my favorite g-code export for use with Prusa MK3s Printers and PLA.
 
  ___
