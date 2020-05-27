@@ -71,14 +71,31 @@ OR*
 
 ## Build Guide
 0. Orient yourself with the board. You're looking at the **top**  of the PCB when the Little Foot emblem is visible on the **right side** of the board.
-1. Solder in diodes, making sure to orient them according to the silk screen on the board. You could solder them to the top or bottom of the PCB according to your preference.
-2. Install stabilizers (either 2x 2U or 1x 7U depending on your spacebar configuration). Ensure they are mounted on the **top** of the board.
-3. Solder in the 2x Cherry MX compatible switches which overlap the footprint of the micro controller.
-4. Solder in the micro controller, or micro controller socket if you choose to use one on to the **bottom** of the PCB. Note that using a socket will increase the height of the micro controller on the board and may not be compatible with the pre-designed cases in this repository.
-5. Solder on the reset switch.
-6. Flash micro controller firmware if not already done.
-7. Now is a good time to go to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. You can do this by shorting together the switch pins with tweezers or a piece of wire.
-8. Solder in remaining Cherry MX compatible switches.
-9. Header over to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. If all of the switch locations were working during the earlier test but not now, check to ensure that you do not have any incomplete or cold solder joins on your switch pins. 
+
+1. Solder in diodes, making sure to orient them according to the silk screen on the board. You should solder them on to the bottom of the board (with leads coming out of the top of the board) because there are 2 diodes which will interfere with switches if soldered to the top.
+
+2. Take the pin headers that came with your Pro Micro and push the black plastic so that it's in the middle of the length of the pins. This will give us some flexibility when soldering. Solder the pin headers on to the PCB with the black part on the BACK of the PCB. This means you will need to apply solder to the parts of the pins poking through the FRONT of the board.
+
+3. Solder in pin headers or pin sockets for an RGB strip if you're using one. The pins/sockets should be mounted on the bottom off the board, so that you can plug in your RGB strip there.
+
+4. Install stabilizers (either 2x 2U or 1x 7U depending on your spacebar configuration). Ensure they are mounted on the **top** of the board.
+
+5. If you're building this with a plate, now is the time to put all your switches in the plate, and then use that to align all the switch pins with their holes on the board. 
+
+If you're building this without a plate, you can mount all the switches in their holes and use a piece of flat cardboard or plastic to help you flip the PCB over without any of the switches coming out of the holes.
+
+Solder the switches in place.
+
+6. Solder on the reset switch.
+
+7. Put the pin headers coming from the PCB through the holes on the microcontroller. The components and socket on the microcontroller should be facing away from the PCB, with the USB port facing towards the top of the PCB. You can double check that everything is facing the correct direction by making sure the TX and RAW labels on the PCB line up with the corresponding holes on the microcontroller. The microcontroller should rest on the black pin spacers placing it just above the PCB, with enough space for the diode and switch leads under it.
+
+8. Flash micro controller firmware if not already done. In my experience with these Pro Micro clones it helps to hold the reset button, then run the programmer command, then release the reset button. The programmer should recognize the board and flash it. I use the following command on my Ubuntu 16.04 system: 
+
+```
+sudo avrdude -F -p atmega32u4 -P /dev/ttyACM0 -c avr109 -U flash:w:kingly_keys_little_foot_default.hex
+```
+
+9. Header over to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. If some of the switches are not registering, check to ensure that you do not have any incomplete or cold solder joins on your switch pins. Additionally, check to make sure the keymap in your firmware matches the switch layout that you installed.
 
 At this point your PCB is fully assembled, and you can install it in a case of your choice. 
