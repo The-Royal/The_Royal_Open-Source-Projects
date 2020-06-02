@@ -74,19 +74,21 @@ OR*
 
 1. Solder in diodes, making sure to orient them according to the silk screen on the board. You should solder them on to the bottom of the board (with leads coming out of the top of the board) because there are 2 diodes which will interfere with switches if soldered to the top.
 
-2. Take the pin headers that came with your Pro Micro and push the black plastic so that it's in the middle of the length of the pins. This will give us some flexibility when soldering. Solder the pin headers on to the PCB with the black part on the BACK of the PCB. This means you will need to apply solder to the parts of the pins poking through the FRONT of the board.
+2. Take the pin headers that came with your Pro Micro and push LONG ends through the BACK of the PCB, so that the black plastic spacers are on the back side of the PCB. Solder to the pins poking through the FRONT of the board. I like to use a small piece of tape to hold the pins in place while I solder, otherwise the headers might fall out of the holes when the board is flipped over to solder.
+
+When the build is finished, the Pro Micro will sit on top of the black plastic spacers now on the back of the PCB.  
 
 3. Solder in pin headers or pin sockets for an RGB strip if you're using one. The pins/sockets should be mounted on the bottom off the board, so that you can plug in your RGB strip there.
 
 4. Install stabilizers (either 2x 2U or 1x 7U depending on your spacebar configuration). Ensure they are mounted on the **top** of the board.
 
-5. If you're building this with a plate, now is the time to put all your switches in the plate, and then use that to align all the switch pins with their holes on the board. 
+5. Solder on the reset switch. I find it's easiest to do this by applying a tiny (tiny!) blob of solder to the pads first, then using tweezers to hold the switch and solder the pins to the solder blob on the board.
+
+6. If you're building this with a plate, now is the time to put all your switches in the plate, and then use that to align all the switch pins with their holes on the board. 
 
 If you're building this without a plate, you can mount all the switches in their holes and use a piece of flat cardboard or plastic to help you flip the PCB over without any of the switches coming out of the holes.
 
 Solder the switches in place.
-
-6. Solder on the reset switch.
 
 7. Put the pin headers coming from the PCB through the holes on the microcontroller. The components and socket on the microcontroller should be facing away from the PCB, with the USB port facing towards the top of the PCB. You can double check that everything is facing the correct direction by making sure the TX and RAW labels on the PCB line up with the corresponding holes on the microcontroller. The microcontroller should rest on the black pin spacers placing it just above the PCB, with enough space for the diode and switch leads under it.
 
