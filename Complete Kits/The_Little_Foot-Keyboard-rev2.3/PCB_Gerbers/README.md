@@ -76,7 +76,7 @@ OR*
 
 2. Take the pin headers that came with your Pro Micro and push LONG ends through the BACK of the PCB, so that the black plastic spacers are on the back side of the PCB. Solder to the pins poking through the FRONT of the board. I like to use a small piece of tape to hold the pins in place while I solder, otherwise the headers might fall out of the holes when the board is flipped over to solder.
 
-When the build is finished, the Pro Micro will sit on top of the black plastic spacers now on the back of the PCB.  
+ When the build is finished, the Pro Micro will sit on top of the black plastic spacers now on the back of the PCB.  
 
 3. Solder in pin headers or pin sockets for an RGB strip if you're using one. The pins/sockets should be mounted on the bottom off the board, so that you can plug in your RGB strip there.
 
@@ -86,18 +86,18 @@ When the build is finished, the Pro Micro will sit on top of the black plastic s
 
 6. If you're building this with a plate, now is the time to put all your switches in the plate, and then use that to align all the switch pins with their holes on the board. 
 
-If you're building this without a plate, you can mount all the switches in their holes and use a piece of flat cardboard or plastic to help you flip the PCB over without any of the switches coming out of the holes.
+ If you're building this without a plate, you can mount all the switches in their holes and use a piece of flat cardboard or plastic to help you flip the PCB over without any of the switches coming out of the holes.
 
-Solder the switches in place.
+ Solder the switches in place.
 
 7. Put the pin headers coming from the PCB through the holes on the microcontroller. The components and socket on the microcontroller should be facing away from the PCB, with the USB port facing towards the top of the PCB. You can double check that everything is facing the correct direction by making sure the TX and RAW labels on the PCB line up with the corresponding holes on the microcontroller. The microcontroller should rest on the black pin spacers placing it just above the PCB, with enough space for the diode and switch leads under it.
 
 8. Flash micro controller firmware if not already done. In my experience with these Pro Micro clones it helps to hold the reset button, then run the programmer command, then release the reset button. The programmer should recognize the board and flash it. I use the following command on my Ubuntu 16.04 system: 
 
-```
+ ```
 sudo avrdude -F -p atmega32u4 -P /dev/ttyACM0 -c avr109 -U flash:w:kingly_keys_little_foot_default.hex
 ```
 
 9. Header over to [Keyboard Tester](https://keyboardtester.com) and ensure that all the keys are registering. If some of the switches are not registering, check to ensure that you do not have any incomplete or cold solder joins on your switch pins. Additionally, check to make sure the keymap in your firmware matches the switch layout that you installed.
 
-At this point your PCB is fully assembled, and you can install it in a case of your choice. 
+ At this point your PCB is fully assembled, and you can install it in a case of your choice. 
