@@ -1,4 +1,7 @@
 # The Schwann PCB
+## ```Updated Aug. 22, 2020: (rev0.5b) - "Added Dual RESET switch footprints (top/bottom)"```
+
+- Added Dual Front/Back Reset Buttons for better use among different cases and settings.
 
 ![Schwann](https://cdn.discordapp.com/attachments/642426539824119849/690722239531974706/image0.jpg)
 
