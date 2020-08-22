@@ -12,11 +12,13 @@
 
 ---
 
-### Exact PCB Dimensions (Both PCBs Exact Same Size):
+### Exact PCB Dimensions:
 
 - **242.9x76.2mm**
 
-These work the same way ordering PCBs does.  Just upload the provided gerbers to your manu. of choice.
+Both PCBs are the same in all dimensions. This Plate case notably also uses the same switch plate also released as a stand-alone plate for normal minivan cases. This plate can also be found [HERE](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/04%20-%20FR4%20Plates/FR4_Plate-Minivan) within this same repository.
+
+These PCBs are ordered in the same manner as ordering any other custom PCB.  Upload the provided gerbers to your manu. of choice and wait for the order to be fabricated.
 
 ### Hardware Required:
 
