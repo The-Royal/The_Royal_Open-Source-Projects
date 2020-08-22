@@ -7,3 +7,7 @@
 | Height  | Width     | Thickness (Recommended)| 
 | ------- | --------- | ---------:|
 | 78mm    | 230mm     | 1.6mm     |
+
+## Updated Aug. 22, 2020: (*rev0.5b*)
+
+- Added Dual Front/Back Reset Buttons for better use among different cases and settings.
