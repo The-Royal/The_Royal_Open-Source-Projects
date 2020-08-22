@@ -8,6 +8,10 @@
 
 These work the same way ordering PCBs does.  Just upload the provided gerbers to your manu. of choice.
 
+***NOTE:*** This specific plate is only compatible with the following layout configurations:
+
+![mvfr4](https://raw.githubusercontent.com/The-Royal/The_Royal_Open-Source-Projects/schwann/xfile-data/minivan_fr4_layouts.png)
+
 ### Exact PCB Dimensions:
 
 - **242.9x76.2mm**
