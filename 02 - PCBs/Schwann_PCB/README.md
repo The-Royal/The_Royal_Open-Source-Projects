@@ -1,4 +1,5 @@
 # The Schwann PCB
+## ```Updated Aug. 22, 2020: (rev0.5b) - "Added Dual RESET switch footprints (top/bottom)"```
 
 ![Schwann](https://cdn.discordapp.com/attachments/642426539824119849/690722239531974706/image0.jpg)
 
@@ -19,7 +20,8 @@ While not proprietary, the Schwann PCB has cut-off bottom corners and may not be
 
 
 ## **Layout Options**
-![Schwann_Layouts](https://i.imgur.com/H78IrGM.png)
+
+![Schwann_Layouts](https://raw.githubusercontent.com/The-Royal/The_Royal_Open-Source-Projects/schwann/xfile-data/schwann_layouts.png)
 
 ## **Building**
 This Repo was realeased to the public so that you can order some of these for yourself and skip the chain! Just upload the gerbers from the latest release section and send them to your favorite PCB Production facility ([JLCPCB](https://jlcpcb.com/) is a fantastic and Cheap Facility), Order the Components Listed below (My Personal Choice is [LCSC](https://lcsc.com/)), and solder up! 
