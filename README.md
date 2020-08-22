@@ -34,13 +34,13 @@
 ## **.03 - Cases**
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
-| [Let's Split *Vitamins Inc.* Case](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/Cases/Vitamins-Included_Case-master) | A 3D-Printed Case for the Hotswap Ed. Let's Split Keyboard | Case STLs, Plates | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Vitamins-Included_Case/master/Full_Case_Renders/Main_Top_WC2.png" width="250px" /> **render* |
+| [Let's Split *Vitamins Inc.* Case](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/Cases/Vitamins-Included_Case-master) | A 3D-Printed Case for the Hotswap Ed. Let's Split Keyboard | Case STLs, Plates | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Vitamins-Included_Case/master/Full_Case_Renders/Main_Top_WC2.png" width="250px" /> |
 
 # **.03 - Other
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
 | [Spring Lube Station](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/Other/Tools-Spring_Lube_Station) | A 3D-Printed Tool For More Consistent Switch-Spring Lubing  | STLs, Sketches | <img src="https://camo.githubusercontent.com/87a03329bccfcfb78fb75a1aa6a203d15018e425/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3634323432363533393832343131393834392f3636373437343730303039313236303933322f696d616765302e6a7067" width="250px" /> |
-| [Stem-A-Jig](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/Other/Tools-Stem-a-Jig) | A 3D-Printed Stem Gripper For Hand Lubing Switch Stems **(designed around compliant mechanisms)*| STL, G-Code | <img src="https://camo.githubusercontent.com/98b67ca2e15da53d1fa347fc3f3a387aba1d0628/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730393736353234353632363734343835322f3731323830323632333337393437323433342f696d616765302e6a7067" width="250px" /> |
+| [Stem-A-Jig](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/Other/Tools-Stem-a-Jig) | A 3D-Printed Stem Gripper For Hand Lubing Switch Stems **(designed around compliant mechanisms)* | STL, G-Code | <img src="https://camo.githubusercontent.com/98b67ca2e15da53d1fa347fc3f3a387aba1d0628/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730393736353234353632363734343835322f3731323830323632333337393437323433342f696d616765302e6a7067" width="250px" /> |
 
 ```| [empty.title](link) | excerpt | keyfiles | <img src="img.jpg" width="250px" /> |```
 
