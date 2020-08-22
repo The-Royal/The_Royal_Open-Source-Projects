@@ -35,12 +35,12 @@
 | --- | --- | :---: | :---: |
 | [Let's Split *Vitamins Inc.* Case](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/03%20-%20Cases/Vitamins-Included_Case-master) | A 3D-Printed Case for the Hotswap Ed. Let's Split Keyboard | Case STLs, Plates | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Vitamins-Included_Case/master/Full_Case_Renders/Main_Top_WC2.png" width="250px" /> |
 
-# **.04 - Plates
+# **.04 - Plates**
 | *Switch Plate* | *Material* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
 | [MiniVan FR4 Plates](dead.link) | FR4 *(PCB Material)* | Gerbers | <img src="img.jpg" width="250px" /> |
 
-# **.05 - Other
+# **.05 - Other**
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
 | [Spring Lube Station](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/04%20-%20Other/Tools-Spring_Lube_Station) | A 3D-Printed Tool For More Consistent Switch-Spring Lubing  | STLs, Sketches | <img src="https://camo.githubusercontent.com/87a03329bccfcfb78fb75a1aa6a203d15018e425/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3634323432363533393832343131393834392f3636373437343730303039313236303933322f696d616765302e6a7067" width="250px" /> |
