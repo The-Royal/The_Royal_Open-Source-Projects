@@ -1,8 +1,6 @@
 # The Schwann PCB
 ## ```Updated Aug. 22, 2020: (rev0.5b) - "Added Dual RESET switch footprints (top/bottom)"```
 
-- Added Dual Front/Back Reset Buttons for better use among different cases and settings.
-
 ![Schwann](https://cdn.discordapp.com/attachments/642426539824119849/690722239531974706/image0.jpg)
 
 An ortholinear "HHKB" style PCB.  Specifically designed for use in the [Neuron 40% Keyboard](https://geekhack.org/index.php?topic=102681.0) by Walletburner of Geekhack. 
@@ -22,6 +20,7 @@ While not proprietary, the Schwann PCB has cut-off bottom corners and may not be
 
 
 ## **Layout Options**
+
 ![Schwann_Layouts](https://raw.githubusercontent.com/The-Royal/The_Royal_Open-Source-Projects/schwann/xfile-data/schwann_layouts.png)
 
 ## **Building**
