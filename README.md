@@ -35,10 +35,11 @@
 | --- | --- | :---: | :---: |
 | [Let's Split *Vitamins Inc.* Case](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/03%20-%20Cases/Vitamins-Included_Case-master) | A 3D-Printed Case for the Hotswap Ed. Let's Split Keyboard | Case STLs, Plates | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Vitamins-Included_Case/master/Full_Case_Renders/Main_Top_WC2.png" width="250px" /> |
 
-# **.04 - Plates**
+# **.04 - FR4 Plates**
 | *Switch Plate* | *Material* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
-| [MiniVan FR4 Plates](dead.link) | FR4 *(PCB Material)* | Gerbers | <img src="img.jpg" width="250px" /> |
+| [Minivan FR4 Plates](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/04%20-%20Plates/FR4_Plate-Minivan) | FR4 *(PCB Material)* | Gerbers | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Open-Source-Projects/schwann/xfile-data/minivan_fr4_cap.png" width="250px" /> |
+| [Roadkit FR4 Plates](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/schwann/04%20-%20Plates/FR4_Plate-Roadkit) | FR4 *(PCB Material)* | Gerbers | <img src="https://raw.githubusercontent.com/The-Royal/The_Royal_Open-Source-Projects/schwann/xfile-data/roadkit_fr4_cap.png" width="250px" /> |
 
 # **.05 - Other**
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
