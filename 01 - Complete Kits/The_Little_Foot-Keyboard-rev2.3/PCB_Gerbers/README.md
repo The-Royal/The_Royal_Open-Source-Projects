@@ -69,7 +69,7 @@ OR*
    
 
 
-## Build Guide
+## A Helpful Build Guide by Mr. [Brandon Foltz](https://github.com/JayWalker512)
 0. Orient yourself with the board. You're looking at the **top**  of the PCB when the Little Foot emblem is visible on the **right side** of the board.
 
 1. Solder in diodes, making sure to orient them according to the silk screen on the board. You should solder them on to the bottom of the board (with leads coming out of the top of the board) because there are 2 diodes which will interfere with switches if soldered to the top.
