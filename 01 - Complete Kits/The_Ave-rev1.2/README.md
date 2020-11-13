@@ -1,12 +1,14 @@
 <h1 align="center">The Ave. (Avenue)</h1>
 <h3 align="center"><code>avəˌn(y)o͞o</code></h3>
 
-<break></break>
+<br>
 
 <h4 align="center">A Mighty 50%, Ortolinear Battlestation </h4>
 
-
-![avebannerimg](https://i.imgur.com/HstmD2y.png)
+<p align="center">
+    <img src="https://i.imgur.com/HstmD2y.png"
+         alt="avebanner">
+</p>
 
 <br>
 <br>
@@ -31,7 +33,7 @@
 <a href="https://geekhack.org/index.php?topic=103834.0">
     <img src="https://i.imgur.com/tB5gpn0.png"
          alt="linktogbforum"></a>
-
+</p>
 
 <br>
 <br>
