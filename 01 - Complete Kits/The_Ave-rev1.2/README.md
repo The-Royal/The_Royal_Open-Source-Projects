@@ -16,11 +16,11 @@
   <a href="https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/001-case/001-main-case/001-raw-step-models">
     <img src="https://i.imgur.com/az4T1Yj.png"
          alt="rawmodels"></a>
-  <a href="htttps://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/001-case/001-main-case/002-3dp-stl-models"><img src="https://i.imgur.com/CQOSLNR.png"></a>
+  <a href="https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/001-case/001-main-case/002-3dp-stl-models"><img src="https://i.imgur.com/CQOSLNR.png"></a>
   <a href="https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/001-case/002-switch-plates"> 
       <img src="https://i.imgur.com/Ehp1EOl.png" alt="stlfiles">
   </a> 
-  <a href="ttps://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/002-pcb">
+  <a href="https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2/002-pcb">
     <img src="https://i.imgur.com/765lBTE.png" alt="platefiles">
     </kbd>
   </a>
