@@ -23,7 +23,7 @@
 
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
-| [The Ave.](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave) | A Mighty 50% Battlestation | PCB, Gerbers, Case STLs, RAW CAD | <img src="https://i.imgur.com/jRDva9O.png" width="250px" /> |
+| [The Ave.](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Ave-rev1.2) | A Mighty 50% Battlestation | PCB, Gerbers, Case STLs, RAW CAD | <img src="https://i.imgur.com/jRDva9O.png" width="250px" /> |
 | [LittleFoot](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_Little_Foot-Keyboard-rev2.3) | A Mighty Small, 45% Keyboard  | PCB, Gerbers, Case STLs, RAW CAD | <img src="https://i.imgur.com/8GVMHlo.jpg" width="250px" /> |
 | [RoMac2.1](https://github.com/The-Royal/The_Royal_Open-Source-Projects/tree/master/01%20-%20Complete%20Kits/The_RoMac_rev2.1) | A “Plaid” Keyboard Inspired Macropad | PCB, Gerbers, Acrylic Cover, Diode Tool | <img src="https://i.imgur.com/WIPdVO9.jpg" width="250px" /> |
 
