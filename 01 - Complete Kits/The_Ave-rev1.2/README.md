@@ -53,7 +53,7 @@
     - I'd love to see the Ave be built up again and again with anything functional or different from makers.
     - If you have a tested modification or general submission request, get a fork and PR sent my way!
 
-- If you ahve any qurestions regarding the files for specifics just send me a messages here or in via reddit/Discord
+- If you have any questions regarding the files or other specifics just send me a messages here or via reddit/Discord
 
 
 <br>
