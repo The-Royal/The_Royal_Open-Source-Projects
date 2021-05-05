@@ -36,7 +36,7 @@ The RoMac is an independent Macro pad with full QMK Programability through the Q
 
 # Build Guide:
 
-- [Parts List](https://github.com/TheRoyalSweatshirt/The_RoMac_rev2.1/blob/master/Build_Guide/RoMac_rev2.1_En.md)
+- [Parts List](Build_Guide/RoMac_rev2.1_En.md)
 - [RoMac rev2.1 Imgur Build Guide](https://imgur.com/a/l24vgvC) 
 
 ## Thank You To Everyone for Making this project possible!
